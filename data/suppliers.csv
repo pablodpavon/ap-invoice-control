@@ -1,0 +1,61 @@
+supplier_cuit,supplier_name,tax_status,category,payment_terms_days
+30540132867,Insumos del Delta SAS,RI,Servicios IT,0
+30171673263,Envases Atlántica SAS,RI,Limpieza,15
+30870596231,Logística Andina SA,RI,Packaging,0
+30706432449,Envases Pampeana SA,RI,Servicios IT,15
+27632708284,Consultoría M. Gómez,MONOTRIBUTO,Servicios IT,30
+30737356619,Consultora del Delta SAS,RI,Servicios IT,45
+30510644405,Transportes Austral SAS,RI,Insumos de oficina,15
+30964316925,Insumos del Plata SAS,RI,Insumos de oficina,45
+30705979177,Logística Patagónica SAS,RI,Logística,60
+27364525198,Servicios R. Gómez,MONOTRIBUTO,Logística,0
+30152534678,Consultora del Plata SRL,RI,Logística,30
+27641394411,Mantenimiento M. Benítez,MONOTRIBUTO,Logística,0
+30961521412,Mantenimiento de Cuyo SAS,RI,Limpieza,0
+30191112608,Insumos del Delta SRL,RI,Packaging,60
+30963640087,Transportes Andina SAS,RI,Mantenimiento,15
+30467876402,Insumos Norte Grande SRL,RI,Limpieza,60
+30891325742,Servicios del Delta SRL,RI,Packaging,30
+20379107371,Consultoría S. Sosa,MONOTRIBUTO,Logística,0
+27623563990,Consultoría G. Sosa,MONOTRIBUTO,Mantenimiento,60
+30653176410,Mantenimiento Norte Grande SRL,RI,Limpieza,0
+30367385827,Papelera del Delta SAS,RI,Insumos de oficina,45
+30655928215,Mantenimiento Andina SA,RI,Insumos de oficina,60
+30559932082,Mantenimiento de Cuyo SA,RI,Logística,60
+27124494120,Consultoría G. Benítez,MONOTRIBUTO,Packaging,45
+30401470243,Limpieza Atlántica SAS,RI,Logística,45
+30781197501,Logística del Plata SAS,RI,Servicios IT,45
+30422448701,Tecnología Pampeana SRL,RI,Limpieza,15
+30831048529,Logística Serrana SRL,RI,Mantenimiento,0
+30143992647,Distribuidora Río Sur SRL,RI,Logística,0
+30744682459,Tecnología Pampeana SAS,RI,Servicios IT,30
+30814749920,Logística del Plata SA,RI,Limpieza,60
+30727218307,Limpieza del Plata SRL,RI,Limpieza,30
+30967556730,Mantenimiento Pampeana SAS,RI,Packaging,30
+30606110312,Papelera Patagónica SA,RI,Logística,45
+30887343132,Tecnología de Cuyo SAS,RI,Servicios IT,15
+30436937861,Servicios Pampeana SAS,RI,Mantenimiento,45
+30669864465,Logística Andina SRL,RI,Packaging,45
+30622310216,Mantenimiento Serrana SAS,RI,Mantenimiento,60
+20705868825,Mantenimiento L. Benítez,MONOTRIBUTO,Logística,60
+30320937775,Transportes Serrana SRL,RI,Limpieza,30
+30673179327,Tecnología Serrana SAS,RI,Insumos de oficina,60
+30689284341,Logística de Cuyo SRL,RI,Insumos de oficina,0
+30261018094,Mantenimiento Andina SRL,RI,Mantenimiento,60
+30894411348,Logística Norte Grande SAS,RI,Servicios IT,30
+27927420045,Mantenimiento M. Acosta,MONOTRIBUTO,Insumos de oficina,15
+30543010622,Metalúrgica del Delta SAS,RI,Packaging,0
+30548163206,Distribuidora Litoral SA,RI,Packaging,45
+30808940147,Metalúrgica Andina SRL,RI,Packaging,15
+27311602565,Servicios R. Benítez,MONOTRIBUTO,Servicios IT,30
+30394421037,Envases Andina SA,RI,Logística,60
+30324237549,Papelera del Plata SA,RI,Mantenimiento,45
+30691486121,Papelera Río Sur SRL,RI,Limpieza,0
+30388947442,Papelera Río Sur SAS,RI,Packaging,45
+30701759822,Papelera Litoral SAS,RI,Packaging,45
+30689317835,Mantenimiento Atlántica SAS,RI,Mantenimiento,30
+30734411260,Distribuidora Pampeana SA,RI,Servicios IT,60
+27339189949,Servicios M. Pérez,MONOTRIBUTO,Limpieza,60
+30354144472,Distribuidora Serrana SRL,RI,Servicios IT,60
+20120218043,Servicios L. Acosta,MONOTRIBUTO,Packaging,60
+30266657257,Tecnología Patagónica SA,RI,Packaging,60

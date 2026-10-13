@@ -1,0 +1,13 @@
+rule,short,severity,description,invoices,amount_ars
+R01,Invalid CUIT,block,Supplier CUIT fails the check-digit validation,10,1981551.12
+R02,Unknown supplier,block,Supplier not found in the supplier master,18,3372472.9
+R03,Exact duplicate,block,"Exact duplicate (same CUIT, type, point of sale and number)",14,5790994.3
+R04,Possible duplicate,review,Possible duplicate: same supplier and total within 7 days,6,963489.0
+R05,IVA error,block,IVA rate not allowed or IVA amount does not match net x rate,12,6828915.18
+R06,Total does not add up,block,Total does not equal net + IVA + other taxes,8,2585342.44
+R07,No PO above threshold,review,"No purchase order on an invoice above ARS 250,000",10,11046623.05
+R08,Price above PO,review,Unit price above the purchase order price by more than 2%,18,9596582.38
+R09,Qty above received,block,Invoiced quantity above quantity received (goods receipt),12,15303762.65
+R10,Type vs tax status,review,Invoice type inconsistent with the supplier's tax status,8,4813002.81
+R11,CAE missing/expired,block,"CAE missing, malformed or expired at invoice date",9,5540377.68
+R12,Date inconsistency,review,Invoice date in the future or due date before invoice date,6,3027751.18
