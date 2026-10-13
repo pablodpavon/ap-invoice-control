@@ -82,4 +82,4 @@ Everything is synthetic: 60 fictional suppliers (companies and monotributistas),
 
 ---
 
-Pablo Pavón · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
+Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
