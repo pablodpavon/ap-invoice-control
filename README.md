@@ -1,5 +1,8 @@
 # AP invoice control
 
+[![tests](https://github.com/pablodpavon/ap-invoice-control/actions/workflows/tests.yml/badge.svg)](https://github.com/pablodpavon/ap-invoice-control/actions/workflows/tests.yml)
+Case study on synthetic data · [Case page on pablodpavon.com](https://pablodpavon.com/proyectos/cuentas-a-pagar.html) · MIT license
+
 **Accounts payable control for a (fictional) Argentine company: CUIT validation, 3-way match and an exception list that a payables team can work through before the payment run.**
 
 *Versión en español más abajo.*
@@ -82,4 +85,4 @@ Everything is synthetic: 60 fictional suppliers (companies and monotributistas),
 
 ---
 
-Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
+Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.com](https://pablodpavon.com)
